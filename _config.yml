@@ -1,6 +1,22 @@
-title: Minimal theme
+title: <p align="center"> Satyanarayana Dintakurthy </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/satyanarayana-dintakurthy-dataprofessional/">LinkedIn</a> |
+  
+  <br>   
+ love to play with Data & numbers
+
+I am an enthusiastic Self-directed Data Professional with 14+ years of experience in Data Management projects having 4+ years of experience working as Lead Data Scientist & Machine Learning Developer
+
+Possess wide spread and progressive experience in IT industry in Data Driven Solutions converting Business Problems to Machine learning, Analytical Solutions, Data Visualization, Data Handling, Data Integration, Data Migration and Archival
+
+Currently spearheading as Chief Manager with ICICI Bank, Bangalore, India. Actively contributes in conducting expert Business & System analysis, identifying business improvements, coordinating & scheduling projects, developing & monitoring project plans and managing end-to-end delivery of projects
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
